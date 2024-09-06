@@ -1,6 +1,6 @@
 # Lung tumour segmentation using 2D and 3D MR images of mice
 
-This the codebase for *Lung tumour segmentation using 2D and 3D MR images of mice* paper.
+This the codebase for *Lung tumour segmentation using 2D and 3D MR images of mice* paper, submitted to BIC workshop (ECCV 2024).
 ___
 
 ![diagram summarizing the work](docs/main_diagram.png "Title")
